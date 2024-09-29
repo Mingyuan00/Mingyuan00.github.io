@@ -18,7 +18,7 @@ Education
 
 Research experience
 ======
-* _(Oct 2023 -- )_ Wu group, School of Mathematical Sciences, Institute of Nature Sciences, Shanghai Jiao Tong University [[Link]](https://ins.sjtu.edu.cn/peoples/wuhao)
+* _(Oct 2023 -- )_ Wu group, School of Mathematical Sciences, Institute of Natural Sciences, Shanghai Jiao Tong University [[Link]](https://ins.sjtu.edu.cn/peoples/wuhao)
   * Visiting Scholar
   * Research Focus: Markov State Modeling & machine learning reaction coordinate
   * Supervisor: Prof. Hao Wu
