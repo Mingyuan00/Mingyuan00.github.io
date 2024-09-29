@@ -22,9 +22,9 @@ repository               : "Mingyuan00/Mingyuan00.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mingyuan Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Undergraduate RA at Zhejiang University. Computational Biophysics & AI4MD"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
