@@ -11,6 +11,9 @@ I am currently an undergraduate research assistant at Integrative Computational 
 
 My research focuses on developing novel AI-based enhanced sampling or mathematical modelling methods for molecular dynamics simulations. I am also interested in their direct applications in biomolecular systems to improve our understanding of these complex systems. [*See research for more information.*](/research/) 
 
+Looking for Research Opportunities!
+======
+
 I am planning to join a Master's degree programme in bioinformatics starting from September 2025, preferably in Spain or Italy and I am determined to pursue a PhD after graduation in the area of my current research interest (AI4MD). **Currently, I am quite flexible and actively looking for various opportunities:** 
 
 - **Full-time Research Assistants before Sep 2025** in Hong Kong, UK, US or continental Europe. For UK/US/EU, I am willing to continue part-time during my Master's study and later join the lab as a PhD student.
