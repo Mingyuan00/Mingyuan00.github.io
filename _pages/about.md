@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate research assistant at Wang Lab [Link](https://person.zju.edu.cn/en/yongwangISB), College of Life Sciences, Zhejiang University and a visiting scholar at Wu Group [Link](https://ins.sjtu.edu.cn/peoples/wuhao), Institute of Natural Sciences, Shanghai Jiao Tong University. I obtained my Bachelor's degree in biochemistry from University College London, UK. 
+I am currently an undergraduate research assistant at Wang Lab [[Link]](https://person.zju.edu.cn/en/yongwangISB), College of Life Sciences, Zhejiang University and a visiting scholar at Wu Group [[Link]](https://ins.sjtu.edu.cn/peoples/wuhao), Institute of Natural Sciences, Shanghai Jiao Tong University. I obtained my Bachelor's degree in biochemistry from University College London, UK. 
 
 My research focuses on developing novel AI-based enhanced sampling or mathematical modelling methods for molecular dynamics simulations. I am also interested in their direct applications in biomolecular systems to improve our understanding of these complex systems. [*See research for more information.*](/research/) 
 
