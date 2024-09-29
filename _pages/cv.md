@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last update Oct 2024.
+Last update Oct 2024. A full CV is available upon request.
 
 Education
 ======
@@ -37,4 +37,8 @@ Workshop/Conference
 ======
 - *Enhanced sampling methods with PLUMED.* CECAM HQ, Lausanne, Switzerland. July 3-6, 2023. 1/30 host-funded on-site attendance. [[Link]](https://www.cecam.org/workshop-details/enhanced-sampling-methods-with-plumed-1200)
 - Flow Matching for Optimal Reaction Coordinate. *Expanding the Impact of Molecular Simulations by Integrating Machine Learning with Statistical Mechanics.* Grand Hotel Vesuvio, Sorrento, Italy. October 10-12, 2024. Invited short communication and poster. [[Link]](https://www.cecam.org/workshop-details/expanding-the-impact-of-molecular-simulations-by-integrating-machine-learning-with-statistical-mechanics-1331)
+
+Publications
+======
+See [[Publications]](https://mingyuan00.github.io/publications/)
 
