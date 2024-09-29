@@ -16,7 +16,7 @@ Looking for Research Opportunities!
 
 I am planning to join a Master's degree programme in bioinformatics starting from September 2025, preferably in Spain or Italy and I am determined to pursue a PhD after graduation in the area of my current research interest (AI4MD). **Currently, I am quite flexible and actively looking for various opportunities:** 
 
-- **Full-time Research Assistants before Sep 2025** in Hong Kong, UK, US or continental Europe. For UK/US/EU, I am willing to continue part-time during my Master's study and later join the lab as a PhD student.
+- **Full-time Research Assistants before Sep 2025** in UK, US or continental Europe. I am willing to continue part-time during my Master's study and later join the lab as a PhD student.
 - **Funded PhD in UK or US starting at the earliest convenience**.
 - **Research opportunities during my Master's study** in Spain or Italy. 
 
