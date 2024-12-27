@@ -35,13 +35,13 @@ Research experience
 
 Workshop/Conference/Talk
 ======
-4. Enhancing Biomolecular Simulations with Machine Learning. *AI-based Computational Methods for Molecular Dynamics Simulation*. November 9-10, 2024. Invited presentation. Shanghai Normal University, Shanghai, China.
+1. Enhancing Biomolecular Simulations with Machine Learning. *AI-based Computational Methods for Molecular Dynamics Simulation*. November 9-10, 2024. Invited presentation. Shanghai Normal University, Shanghai, China.
    
-3. Machine Learning for Biomolecular Simulations. Invited in group talk at Prof. Carme Rovira's research group, Universitat de Barcelona, Barcelona, Spain. November 18, 2024. 
+2. Machine Learning for Biomolecular Simulations. Invited in group talk at Prof. Carme Rovira's research group, Universitat de Barcelona, Barcelona, Spain. November 18, 2024. 
 
-2. Flow Matching for Optimal Reaction Coordinate. *Expanding the Impact of Molecular Simulations by Integrating Machine Learning with Statistical Mechanics.* Grand Hotel Vesuvio, Sorrento, Italy. October 10-12, 2024. Invited short communication and poster. [[Link]](https://www.cecam.org/workshop-details/expanding-the-impact-of-molecular-simulations-by-integrating-machine-learning-with-statistical-mechanics-1331)
+3. Flow Matching for Optimal Reaction Coordinate. *Expanding the Impact of Molecular Simulations by Integrating Machine Learning with Statistical Mechanics.* Grand Hotel Vesuvio, Sorrento, Italy. October 10-12, 2024. Invited short communication and poster. [[Link]](https://www.cecam.org/workshop-details/expanding-the-impact-of-molecular-simulations-by-integrating-machine-learning-with-statistical-mechanics-1331)
 
-1.*Enhanced sampling methods with PLUMED.* CECAM HQ, Lausanne, Switzerland. July 3-6, 2023. 1/30 host-funded on-site attendance. [[Link]](https://www.cecam.org/workshop-details/enhanced-sampling-methods-with-plumed-1200)
+4.*Enhanced sampling methods with PLUMED.* CECAM HQ, Lausanne, Switzerland. July 3-6, 2023. 1/30 host-funded on-site attendance. [[Link]](https://www.cecam.org/workshop-details/enhanced-sampling-methods-with-plumed-1200)
 
 Publications
 ======
