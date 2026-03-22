@@ -24,7 +24,7 @@ Research experience
   * Research Focus: ML/MM simulation of enzymatic reactions
   * Supervisor: Prof. Carme Rovira
  
-* _(May 2025 -- July 2025)_ Keller lab, Department of Biology, Chemistry and Pharmacy, Free University of Berlin [[Link]] (https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/agkeller/index.html)
+* _(May 2025 -- July 2025)_ Keller lab, Department of Biology, Chemistry and Pharmacy, Free University of Berlin [[Link]](https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/agkeller/index.html/)
   * Research Internship
   * Research Focus: Kinetic reweighting method development
   * Supervisor: Prof. Bettina G. Keller
