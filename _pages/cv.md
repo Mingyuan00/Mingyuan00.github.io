@@ -30,7 +30,7 @@ Research experience
   * Supervisor: Prof. Bettina G. Keller
     
 * _(Oct 2023 -- )_ Wu group, School of Mathematical Sciences, Institute of Natural Sciences, Shanghai Jiao Tong University [[Link]](https://ins.sjtu.edu.cn/peoples/wuhao)
-  * Visiting Scholar
+  * Visiting Researcher
   * Research Focus: Markov state modelling & machine learning reaction coordinate
   * Supervisor: Prof. Hao Wu
   
