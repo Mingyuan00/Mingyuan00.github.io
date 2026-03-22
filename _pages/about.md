@@ -16,4 +16,7 @@ I am currently a Master student in [Erasmus Mundus Theoretical Chemistry and Che
 3. Enhanced sampling methods development
 4. Their applications in biomolecular modelling and simulations. Structural biology is fun!
 
+I love to collaborate with people from different disciplinaries! My long time collabrators include:
+1. [Prof. Hao Wu](https://ins.sjtu.edu.cn/peoples/wuhao), Shanghai Jiao Tong University.
+
 You can find my [CV](/cv/) here. You are welcome to contact me through email at [mingyuan.zhang.16@alumni.ucl.ac.uk](mailto:mingyuan.zhang.16@alumni.ucl.ac.uk).
