@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master student in [Erasmus Mundus Theoretical Chemistry and Chemical Modelling (EMTCCM)](https://www.emtccm.org) at [Universitat de Barcelona](https://www.ub.edu/portal/web/quimica), Spain. I anticipate to graduate in Fall 2027. I obtained my Bachelor's degree in biochemistry in 2021 from University College London, UK. 
+I am currently a Master student in [Erasmus Mundus Theoretical Chemistry and Chemical Modelling (EMTCCM)](https://www.emtccm.org) at Universitat de Barcelona, Spain. I anticipate to graduate in Fall 2027. I obtained my Bachelor's degree in biochemistry in 2021 from University College London, UK. 
 
 **My current research of interest:**
 
