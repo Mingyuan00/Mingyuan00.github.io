@@ -7,17 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate research assistant at Integrative Computational Structural Biology Lab [[Link]](https://person.zju.edu.cn/en/yongwangISB), College of Life Sciences, Zhejiang University and a visiting scholar at Wu Group [[Link]](https://ins.sjtu.edu.cn/peoples/wuhao), Institute of Natural Sciences, Shanghai Jiao Tong University. I obtained my Bachelor's degree in biochemistry in 2021 from University College London, UK. 
+I am currently a Master student in [Erasmus Mundus Theoretical Chemistry and Chemical Modelling (EMTCCM)](https://www.emtccm.org) at [Universitat de Barcelona](https://www.ub.edu/portal/web/quimica). I anticipate to graduate in Fall 2026. I obtained my Bachelor's degree in biochemistry in 2021 from University College London, UK. 
 
 My research focuses on developing novel AI-based enhanced sampling or mathematical modelling methods for molecular dynamics simulations. I am also interested in their direct applications in biomolecular systems to improve our understanding of these complex systems. [*See research for more information.*](/research/) 
 
-Looking for Research Opportunities!
-======
-
-I am planning to join a Master's degree programme in bioinformatics starting from September 2025, preferably in Spain or Italy and I am determined to pursue a PhD after graduation in the area of my current research interest (AI4MD). **Currently, I am quite flexible and actively looking for various opportunities:** 
-
-- **Full-time Research Assistants before Sep 2025** in UK, US or continental Europe. I am willing to continue part-time during my Master's study and later join the lab as a PhD student.
-- **Funded PhD in UK or US starting at the earliest convenience**.
-- **Research opportunities during my Master's study**. 
-
-You can find my [CV](/cv/) here. You are welcome to contact me through email at [mingyuanzhang@zju.edu.cn](mailto:mingyuanzhang@zju.edu.cn).
+You can find my [CV](/cv/) here. You are welcome to contact me through email at [mingyuan.zhang.16@alumni.ucl.ac.uk](mailto:mingyuan.zhang.16@alumni.ucl.ac.uk).
