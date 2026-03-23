@@ -13,8 +13,7 @@ I am currently a Master student in [Erasmus Mundus Theoretical Chemistry and Che
 
 1. AI4MD: ML potentials & ML reaction coordinates
 2. Mathematical modelling methods
-3. Enhanced sampling methods
-4. Statiscal reweighting
+3. Enhanced sampling methods & Statiscal reweighting
 5. Their applications in biomolecular modelling and simulations. Structural biology is fun!
 
 I love to collaborate with people from different disciplinaries! My long time collabrators include:
