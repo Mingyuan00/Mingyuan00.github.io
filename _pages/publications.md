@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Mingyuan Zhang**, Yong Wang, Bettina G. Keller and Hao Wu. "$\pi$-Girsanov: A Generalized Method to Construct Markov State Models from
+**Mingyuan Zhang**, Yong Wang, Bettina G. Keller and Hao Wu. "π-Girsanov: A Generalized Method to Construct Markov State Models from
 Non-Equilibrium and Multiensemble Biased Simulations" *Under review.*
 
 **Mingyuan Zhang**, Hao Wu, and Yong Wang. "Enhanced Sampling of Biomolecular Slow Conformational Transitions Using Adaptive Sampling and Machine Learning." *Journal of Chemical Theory and Computation* (2024).[<img src="/images/github-mark.png" width="20" height="20">](https://github.com/Mingyuan00/Adaptive_Sampling_for_OPES)
